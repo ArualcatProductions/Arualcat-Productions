@@ -7,7 +7,7 @@ Arualcat Productions Inc. exists to produce content that educate our audiences a
 <li>Self-stigma: including internalized shame, that people with mental illness have about their own condition.</li>
 <li>Institutional stigma: Intentionally or unintentionally limit opportunities for the mentally ill.</li>
 </ul>
-Arualcat Productions Inc. oversees the management of programs and content distributed on Lighthouse Broadcasting and has the responsibility of making executive and administrative decisions as regards the operations and functionality of the company.  Through Lighthouse Broadcasting (LBTV) we distribute content on OTT devices, in both the iOS and Google Play stores and via web 3.0. Some of our content is on our Youtube Channel.
+Arualcat Productions Inc. oversees the management of programs and content distributed on Lighthouse Broadcasting and has the responsibility of making executive and administrative decisions as regards the operations and functionality of the company. We've distributed content on OTT devices, in both the iOS and Google Play stores and via web 3.0. The technology today enables us to use more cost effective methods to distribute content (e.g. Spotify, YouTube.com, and other utility based programs and applications.
 
 <p align="left">
     <a href = "https://www.youtube.com/channel/UCUJKJc5gCU7vnoWLDNe7_jw">
